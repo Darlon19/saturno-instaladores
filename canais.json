@@ -1,0 +1,15 @@
+{
+    "canais":  {
+                   "damara-erp":  {
+                                      "aprovado":  true,
+                                      "mensagem":  "Atualizacao assistida pela Damara Sistemas.",
+                                      "versao":  "2026.10.25.1"
+                                  },
+                   "saturno1":  {
+                                    "aprovado":  false,
+                                    "mensagem":  "Nova distribuicao ainda em validacao. Solicite orientacao a Damara Sistemas.",
+                                    "versao":  "2026.10.25.1"
+                                }
+               },
+    "schema":  1
+}
