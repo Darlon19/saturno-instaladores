@@ -6,7 +6,7 @@ Downloads oficiais da série Saturno, da Damara Sistemas LTDA.
 A versão 2026.10.25.1 está em preparação. Sua publicação depende da conclusão
 da análise de detecção do Microsoft Defender e da validação final em Windows limpo.
 
-Quando houver uma versão liberada, baixe os arquivos em [Releases](../../releases).
+Quando houver uma versão liberada, baixe os arquivos em [Releases](https://github.com/Darlon19/saturno-instaladores/releases).
 Os instaladores ficam nos anexos da versão; o ZIP automático de código-fonte não é um instalador.
 
 O pacote inicial conterá:
